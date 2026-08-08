@@ -30,6 +30,35 @@ const suleiamn = {
 
 ---
 
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Todo APP</h3>
+      <p align="center">
+        Todo app for practicing
+        <br/><br/>
+        <a href="https://github.com/SuleimanGJ/todo_app">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">HLS Transcoding</h3>
+      <p align="center">
+        Finance Tracker app for practicing
+        <br/><br/>
+        <a href="https://github.com/SuleimanGJ/expenses-lens-v1">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Tech Stack
 
 <p align="center">
