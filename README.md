@@ -45,7 +45,7 @@ const suleiamn = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">HLS Transcoding</h3>
+      <h3 align="center">Expense Tracker</h3>
       <p align="center">
         Finance Tracker app for practicing
         <br/><br/>
